@@ -1,0 +1,15 @@
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\bin\Debug\net6.0\ConsoleAppTask2CsharpNew.exe
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\bin\Debug\net6.0\ConsoleAppTask2CsharpNew.deps.json
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\bin\Debug\net6.0\ConsoleAppTask2CsharpNew.runtimeconfig.json
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\bin\Debug\net6.0\ConsoleAppTask2CsharpNew.dll
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\bin\Debug\net6.0\ConsoleAppTask2CsharpNew.pdb
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\obj\Debug\net6.0\ConsoleAppTask2CsharpNew.csproj.AssemblyReference.cache
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\obj\Debug\net6.0\ConsoleAppTask2CsharpNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\obj\Debug\net6.0\ConsoleAppTask2CsharpNew.AssemblyInfoInputs.cache
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\obj\Debug\net6.0\ConsoleAppTask2CsharpNew.AssemblyInfo.cs
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\obj\Debug\net6.0\ConsoleAppTask2CsharpNew.csproj.CoreCompileInputs.cache
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\obj\Debug\net6.0\ConsoleAppTask2CsharpNew.dll
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\obj\Debug\net6.0\refint\ConsoleAppTask2CsharpNew.dll
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\obj\Debug\net6.0\ConsoleAppTask2CsharpNew.pdb
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\obj\Debug\net6.0\ConsoleAppTask2CsharpNew.genruntimeconfig.cache
+C:\Users\emust\Documents\ElvinP416\ConsoleAppTask2CsharpNew\ConsoleAppTask2CsharpNew\obj\Debug\net6.0\ref\ConsoleAppTask2CsharpNew.dll
